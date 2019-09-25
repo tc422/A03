@@ -19,4 +19,17 @@ Step 16: Your File should be showing on Github
 Step 17: To set up your Github Pages got to settings and make sure the repository name is right
 Step 18: To choose your Github Page Location go to master branch and see the published URL(Choose Master Branch and Leave Domain blank for projects
 Step 19: To check your URL cpoy it into browser and click enter 
+
 Definitions:
+Git-is a open source version control system, this means multiple people can work at once while the system keeps tracks of the changes
+Github - Is a repository hosting Service for  Git and provides a graphical interface on the web
+Repository- Is the mainplace for storing files, it allows for storing of multiple different versions of the same files
+Clone- allows for you to download existing files to your computer and allows for you to make your own edits on your own file
+Commit- Is a individual change to a file in git hub, creates a new name for each change
+Push- this is when you send you files to a place where people can access and view them on places such as github
+Pull- is a a notice to those look at your repsoitory, a pull tells the viewers what changes you have made to the reposityory
+Branch- a branch is a set of code changes usually used when one or more people are working on the code 
+Merge- takes different lines of code from different branches and allows for them to join into one branch
+Merge Conflict- When people make commits that affect the same epart of the code and you need to decide which commit will be in the final code
+Fetch- downloadscommits, refs and files from remote repositories, basically gets you everything necessary to view said repsoitory 
+Remote- is the area where all the team memebers share their changes, commits and versions of the code
